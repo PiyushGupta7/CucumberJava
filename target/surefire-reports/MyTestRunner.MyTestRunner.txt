@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: MyTestRunner.MyTestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 75.249 s <<< FAILURE! - in MyTestRunner.MyTestRunner
+null on MyTestRunner.MyTestRunner(MyTestRunner.MyTestRunner)  Time elapsed: 74.594 s  <<< FAILURE!
+java.lang.RuntimeException: java.net.UnknownHostException: messages.cucumber.io
+Caused by: java.net.UnknownHostException: messages.cucumber.io
+Caused by: java.net.UnknownHostException: messages.cucumber.io
+
